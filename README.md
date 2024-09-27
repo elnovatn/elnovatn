@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ghaith, known as " Nova " (Nickname)
 - 👀 I’m studying computer science and interested in computer & network security
 - 🌱 I’m currently trying to develop my knowledge in cybersecurity
-- 📫 Contact me on : elnovatn@gmail.com    -    fb/elghaithheni    -    twitter/elnovatn 
+- 📫 Contact me on : elghaith.heni@gmail.com    -    fb/elghaithheni    -    twitter/elnovatn 
